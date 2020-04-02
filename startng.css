@@ -7,7 +7,7 @@ body {
 
 }
 .banner {
-  background-image: url('./img/bgimg.jpg');
+  background-image: url('startNG/img/bgimg.jpg');
   background-size: cover;
   min-height: 600px;
   background-position: right bottom;
